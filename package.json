@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node without_PoW.js"
+    "start": "node main.js"
 },
 "dependencies": {
   "body-parser": "^1.15.2",
